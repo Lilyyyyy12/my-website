@@ -1,0 +1,62 @@
+body{
+    font-family: 'Times New Roman',serif;
+    margin: 15px;
+    font-size: 20px;
+}
+/* Eke lily */
+nav ul{
+    padding: 0;
+}
+nav li{
+    display: inline;
+    margin-right: 25px;
+}
+nav a{
+    color: black;
+}
+
+/* Welcome section */
+#welcome{
+    padding: 20px 0;
+    border-bottom: 2px solid gray;
+}
+#welcome h2{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* About section */
+#about h2{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 8px;
+}
+#about p{
+    background-color: blue;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Contact section */
+#contact h2{
+    background-color: blue;
+    color: white;
+    padding: 8px;
+}
+
+/* Footer */
+footer{
+    margin-top: 20px;
+    text-align: center;
+}
+footer a{
+    margin: 10px;
+}
+footer p{
+    text-align: center;
+    font-style: italic;
+}
